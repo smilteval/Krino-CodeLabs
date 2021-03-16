@@ -5,6 +5,7 @@
 A Full-stack project developed during the CodeDay CodeLabs internship. <br>
 
 
+
 <br>
 
 <!-------------------------------------------------------------------------------------------------------------------------->
@@ -71,3 +72,6 @@ Additional:&nbsp; &nbsp; &nbsp;
 
 ## <a name="team"></a> Team Members
  * [Smilte Valasinaite](https://www.linkedin.com/in/smiltevalasinaite/)
+ * [Amy Ghotra](https://www.linkedin.com/in/amyghotra/)
+ * [Zarrin Ali](https://www.linkedin.com/in/%E2%9C%A8-zarrin-ali-%E2%9C%A8-2a04b3146/)
+ * [Timothy Van Cleave (mentor)](https://www.linkedin.com/in/timothy-van-cleave/)
